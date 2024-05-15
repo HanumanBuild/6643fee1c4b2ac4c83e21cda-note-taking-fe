@@ -1,0 +1,1 @@
+// Implement Dashboard component to display and manage notes with TailwindCSS styling
